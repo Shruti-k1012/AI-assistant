@@ -37,7 +37,7 @@ Cann is your friendly AI voice assistant built with **Python** and **Streamlit**
 
 ```bash
 git clone :https://github.com/Shruti-k1012/AI-assistant.git
-cd cann-ai-assistant
+cd AI-assistant
 ```
 
 ### 2. Install Required Libraries
